@@ -14,5 +14,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('sai')
     print_hi('How are you doing now ????')
+    print_hi('I will play with the guitar')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
